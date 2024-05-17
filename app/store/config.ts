@@ -43,7 +43,7 @@ export const DEFAULT_CONFIG = {
   dontShowMaskSplashScreen: false, // dont show splash screen when create chat
   hideBuiltinMasks: false, // dont add builtin masks
 
-  customModels: "",
+  customModels: "ERNIE-Bot,ERNIE-Bot-turbo,ERNIE-Bot-4,Embedding-V1,PaLM-2,chatglm_turbo,chatglm_pro,chatglm_std,chatglm_lite,qwen-turbo,qwen-plus,SparkDesk,360GPT_S2_V9,gpt-4-all,gpt-4-dalle,gpt-4-bing",
   models: DEFAULT_MODELS as any as LLMModel[],
 
   modelConfig: {

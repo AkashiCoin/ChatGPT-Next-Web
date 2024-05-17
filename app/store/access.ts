@@ -24,8 +24,8 @@ const DEFAULT_ACCESS_STATE = {
   provider: ServiceProvider.OpenAI,
 
   // openai
-  openaiUrl: DEFAULT_OPENAI_URL,
-  openaiApiKey: "",
+  openaiUrl: "https://one.loli.vet",
+  openaiApiKey: "sk-ThisIsARealFreeChatGPTKeyByLoliGPT",
 
   // azure
   azureUrl: "",
